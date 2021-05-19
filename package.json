@@ -1,11 +1,11 @@
 {
-  "name": "callback",
+  "name": "my-callback",
   "version": "1.0.0",
   "description": "trabajar con asincronismos en javascript",
   "main": "src/index3.js",
   "scripts": {
-    "callback": "node ./callback/index3.js",
-    "callback:challenge": "node ./callback/challenge.js",
+    "callback": "node ./my-callback/index3.js",
+    "callback:challenge": "node ./my-callback/challenge.js",
     "promise": "node ./promise/promise.js",
     "promise:challenge": "node ./promise/challenge-promise.js",
     "async": "node ./async/index4.js",
