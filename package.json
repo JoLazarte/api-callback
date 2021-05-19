@@ -1,0 +1,26 @@
+{
+  "name": "api-callback2",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismos en javascript",
+  "main": "src/index3.js",
+  "scripts": {
+    "callback": "node ./api-callback2/index3.js",
+    "callback:challenge": "node ./api-callback2/challenge.js",
+    "promise": "node ./promise/promise.js",
+    "promise:challenge": "node ./promise/challenge-promise.js",
+    "async": "node ./async/index4.js",
+    "async:challenge": "node ./async/challenge-async.js"
+
+
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Joanna Lazarte",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
